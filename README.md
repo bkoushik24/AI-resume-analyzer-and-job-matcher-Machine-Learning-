@@ -1,2 +1,11 @@
-# AI-resume-analyzer-and-job-matcher-Machine-Learning-
-NLP-powered tool that analyzes resumes and matches them with relevant job descriptions using TF-IDF and cosine similarity. Built with Python, NLTK, and scikit-learn.
+🤖 AI Resume Analyzer & Job Matcher
+
+This project uses **Natural Language Processing (NLP)** and **Machine Learning** to analyze resumes and intelligently match them to job descriptions based on content similarity. It helps automate candidate-job matching for recruiters or personal career guidance tools.
+
+🚀 Features
+
+- 📄 Resume and Job Description parsing
+- ✂️ Text preprocessing (lowercasing, stopword removal, lemmatization)
+- 📊 Resume-JD similarity scoring using **TF-IDF** and **Cosine Similarity**
+- 📁 Structured project layout with reusable modules
+- 💾 Result export to CSV
